@@ -1,0 +1,20 @@
+_id: env_e6bc655ae69d4e6aae4ef95f3a1c5028
+type: Environment
+parentId: env_511918c55c8ee0a3cc152aa5cdbd5ba0ad7f38f9
+modified: 1621425429046
+created: 1621424510073
+name: staging
+data:
+  scheme: https
+  base_path: ""
+  host: api.kongcx.ninja
+  delay: 2
+dataPropertyOrder:
+  "&":
+    - scheme
+    - base_path
+    - host
+    - delay
+color: null
+isPrivate: false
+metaSortKey: 1621424442124
